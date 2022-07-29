@@ -1,0 +1,4 @@
+__pycache__/
+codeql/
+venv/
+fruit-dataclass.py
